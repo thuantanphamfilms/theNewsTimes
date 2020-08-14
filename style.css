@@ -1,0 +1,66 @@
+.brand {
+  font-size: 60px;
+  text-align: center;
+  margin: 60px 0;
+}
+
+.row {
+  display: flex;
+  border-bottom: 2px solid;
+  border-top: 2px solid;
+}
+
+article {
+  border: 1px solid;
+  padding: 8px;
+}
+
+.quarter {
+  max-width: 500px;
+}
+
+img {
+  margin: 0 168px;
+}
+
+.title {
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
+  margin: 25px 0;
+}
+
+.choise {
+  padding: 0px;
+  text-align: left;
+  font-size: 35px;
+  font-weight: bold;
+  list-style: none;
+  color: #555;
+  width: 1370px;
+}
+
+.choise-p {
+  margin: 0;
+  padding: 15px;
+}
+
+#row-color1 {
+  background-color: red;
+}
+
+#row-color2 {
+  background-color: blue;
+}
+
+#row-color3 {
+  background-color: green;
+}
+
+#row-color4 {
+  background-color: pink;
+}
+
+#row-color5 {
+  background-color: yellow;
+}
