@@ -16,6 +16,6 @@ https://btholt.github.io/intro-to-web-dev-v2/project-html-css/
 
 https://btholt.github.io/intro-to-web-dev-v2/news.html
 
-## review
+## Review
 
 ![](./img/thuanpham2311.github.io_theNewsTimes_.png)
