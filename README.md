@@ -1,19 +1,21 @@
-# theNewsTimes
+# The News Times (website)
 
-## the project when I study at frontendmaster
+## Overview
+
+The project when I study at frontendmaster
+
+**My ans**
+
+https://thuanpham2311.github.io/theNewsTimes/
+
+**Detail**
+
+https://btholt.github.io/intro-to-web-dev-v2/project-html-css/
+
+**Solution**
+
+https://btholt.github.io/intro-to-web-dev-v2/news.html
 
 ## review
 
 ![](./img/thuanpham2311.github.io_theNewsTimes_.png)
-
-## my ans
-
-https://thuanpham2311.github.io/theNewsTimes/
-
-## detail
-
-https://btholt.github.io/intro-to-web-dev-v2/project-html-css/
-
-## solution
-
-https://btholt.github.io/intro-to-web-dev-v2/news.html
