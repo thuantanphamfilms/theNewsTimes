@@ -1,5 +1,7 @@
 # The News Times (website)
 
+**All my commit message is BS, don't waste your time read that\***
+
 ## Overview
 
 The project when I study at frontendmaster
